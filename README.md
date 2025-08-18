@@ -17,4 +17,4 @@ Creator's Country : Turkiye
 
 -------------------------------
 
-Hub Version : 0.0.1
+Hub Version : 0.1
