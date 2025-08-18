@@ -5,7 +5,7 @@ Made By StarB0yyy | Axiora Hub
 ## Script
 
 Script Code:
-```https://raw.githubusercontent.com/StarB0yyyy/AxioraHub-V1-Normal/script/Hub.lua```
+```loadstring(game:HttpGet('https://raw.githubusercontent.com/StarB0yyyy/AxioraHub-V1-Normal/script/Hub.lua'))()```
 
 -------------------------------
 
