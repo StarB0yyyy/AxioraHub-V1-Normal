@@ -145,7 +145,6 @@ SpeedBooster.MouseButton1Click:Connect(function()
 	if humanoid.WalkSpeed == 16 then
 		humanoid.WalkSpeed = 100
 	else 
-			game.StarterGui:SetCore("SendNotification", {Title="AXIORA HUB "; Text="Speed Boost Isn't Working!"; Duration=5;})
 			humanoid.WalkSpeed = 16
 	end
 end) 
@@ -166,7 +165,6 @@ if _G.infinJumpStarted == nil then
 			if k:byte() == 32 then
 			humanoid:ChangeState('Jumping')
 			wait()
-			game.StarterGui:SetCore("SendNotification", {Title="AXIORA HUB"; Text="INF Jump Isn't Working!"; Duration=5;})
 			humanoid:ChangeState('Seated')
 			end
 		end
