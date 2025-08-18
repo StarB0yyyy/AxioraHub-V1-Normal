@@ -67,7 +67,7 @@ TextLabel.BorderSizePixel = 0
 TextLabel.Position = UDim2.new(-0.0579710156, 0, -0.888888896, 0)
 TextLabel.Size = UDim2.new(0, 200, 0, 50)
 TextLabel.Font = Enum.Font.GothamBold
-TextLabel.Text = "AXIORA HUB | PUBLIC"
+TextLabel.Text = "AXIORA HUB | NORMAL"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 14.000
 
