@@ -18,3 +18,9 @@ Creator's Country : Turkiye
 -------------------------------
 
 Hub Version : 0.1
+
+------------------------------
+
+## Discord Server;
+
+Link: ```https://discord.gg/zYXXdpQm```
