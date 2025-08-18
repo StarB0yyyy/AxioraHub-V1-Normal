@@ -1,11 +1,11 @@
-# AxioraHub-V1-Public
+# AxioraHub-V1-Normal
 Made By StarB0yyy | Axiora Hub
 
 -------------------------------
 ## Script
 
 Script Code:
-```https://raw.githubusercontent.com/StarB0yyyy/AxioraHub-V1-Public/script/Hub.lua```
+```https://raw.githubusercontent.com/StarB0yyyy/AxioraHub-V1-Normal/script/Hub.lua```
 
 -------------------------------
 
