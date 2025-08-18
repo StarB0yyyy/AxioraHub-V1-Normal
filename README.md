@@ -12,6 +12,7 @@ Script Code:
 ## Information About the Creator;
 
 Creator Discord User: @r9zkswcqe4zx
+
 Creator's Country : Turkiye
 
 -------------------------------
