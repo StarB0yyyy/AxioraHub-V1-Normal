@@ -28,7 +28,7 @@ local JumpBooster = Instance.new("TextButton")
 local UICorner_4 = Instance.new("UICorner")
 local TpTool = Instance.new("TextButton")
 local UICorner_5 = Instance.new("UICorner")
-local UICorner_6 = Instance.new("UICorner")
+local Hehehehecorner = Instance.new("UICorner")
 
 local char = player.Character or player.CharacterAdded:Wait()
 local humanoid = char:WaitForChild("Humanoid")
@@ -45,8 +45,8 @@ Frame.BorderSizePixel = 0
 Frame.Position = UDim2.new(0.353125006, 0, 0.329760969, 0)
 Frame.Size = UDim2.new(0, 562, 0, 393)
 
-UICorner_6.CornerRadius = UDim.new(0, 11)
-UICorner.Parent = Frame
+Hehehehecorner.CornerRadius = UDim.new(0, 11)
+Hehehehecorner.Parent = Frame
 
 Noneed.Name = "Noneed"
 Noneed.Parent = Frame
