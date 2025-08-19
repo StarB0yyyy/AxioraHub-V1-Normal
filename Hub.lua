@@ -178,7 +178,7 @@ TpTool.MouseButton1Click:Connect(function()
 	local mouse = game.Players.LocalPlayer:GetMouse()
 	local tool = Instance.new("Tool")
 	tool.RequiresHandle = false
-	tool.Name = "Tp tool(Equip to Click TP)"
+	tool.Name = "Tp Tool"
 	tool.Activated:connect(function()
 		local pos = mouse.Hit+Vector3.new(0,2.5,0)
 		pos = CFrame.new(pos.X,pos.Y,pos.Z)
